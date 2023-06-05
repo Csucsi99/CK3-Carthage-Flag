@@ -1,0 +1,91 @@
+coa_title_7846={
+	custom=yes
+	pattern="pattern__solid_designer.dds"
+	color1=white
+	color2=white
+	color3=red
+	colored_emblem={
+		color1=red
+		texture="ce_bendlet.dds"
+		instance={
+			position={ 0.500000 0.530000 }
+			scale={ 0.190000 0.230000 }
+			depth=2.010000
+			rotation=134
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_letter_j.dds"
+		instance={
+			position={ 0.390000 0.500000 }
+			scale={ -0.150000 0.080000 }
+			rotation=171
+		}
+
+		instance={
+			position={ 0.610000 0.500000 }
+			scale={ 0.160000 0.080000 }
+			depth=1.010000
+			rotation=183
+		}
+
+	}
+
+	colored_emblem={
+		color1=green_light
+		texture="ce_pagan_circle_frame_02.dds"
+		instance={
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_annulet.dds"
+		instance={
+			position={ 0.500000 0.490000 }
+			scale={ 0.130000 0.130000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=green
+		texture="ce_crescent.dds"
+		instance={
+			position={ 0.500000 0.310000 }
+			scale={ 0.400000 0.350000 }
+			depth=6.010000
+			rotation=180
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_african_ja_ir.dds"
+		instance={
+			position={ 0.500000 0.660000 }
+			scale={ 0.300000 0.390000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=green
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.500000 0.330000 }
+			scale={ 0.180000 0.180000 }
+			depth=5.010000
+		}
+
+	}
+
+}
