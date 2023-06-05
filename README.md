@@ -1,2 +1,4 @@
 # CK3-Carthage-Flag
-Hey! I just wanted to share the Carthaginian flag I made in Crusader Kings 3. The flag was inspired by the Total War Rome II Carthage faction.
+Crusader Kings 3 Carthaginian flag inspired by Total War: Rome II
+
+The code is in the "Flag code"
